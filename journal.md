@@ -1,10 +1,26 @@
+# Week 6:
+## Where I'm at:
+Preprocessing Data that I found on the variables :
+Volume of rainfall 
+Sealevel 
+Draught 
+Dryness
+I worked on finding climate indicators or smaller climate events leading up to the floods. Sifting threough news articles and available data to see if I notice any spikes or falls. 
+Bangladesh vs Pakistan case study 
+## Challenges: 
+Gathering topographic data. Still looking for any existing work that quantified climate events due to landscape and terrains. Infrtsructure played a key role in incressing the devastation of the floods, as dams broke, no climate crisis infrastructure, proximity of indus river to humans settlements etc. 
+Work Weather Attribution Project listen the return period of these floods as 1 in 100 years. I want to see if the same was said about the 2010 floods. 
+## What's next: 
+Find a similar model or design a model - research 
+Work on this - Draw a graph with potential variables, events and indicators that occured before both the 2010 and 2022 floods for Pakistan and 2022 floods for Bangladesh, similar to a causal graph model.
+
 # Week 5:
 ## Where I'm at: 
 Continued Data Collection but found some other variables and thinking if I need to first perform a causal analysis of the factors or indicators like the La Nina effect, or the glacier shrinkage and the draught as possible indicators of Floods? I could also get the data that ministry of Pakistan or the World Weather Watch releases. 
 ## What I found: 
 - World Weather Attribution Project is performing an analysis on what contributed to the Pakistan floods. They might release it in the coming weeks.
 - Upon further research I found that Bangladesh is highly prone to flooding but has set an example of how to be prepared and monitor the early signs of floods.
-- I also found out that Pakistan had similarly devastative flood sin 2010 and the death toll then was higher than what it is in 2022, indicating that Pakistan's climate change ministry has adopted early-warning signs monitoring.
+- I also found out that Pakistan had similarly devastative floods in 2010 and the death toll then was higher than what it is in 2022, indicating that Pakistan's climate change ministry has adopted early-warning signs monitoring.
 - I found a chronological order of floods - May-June : Bangladesh and NorthEast India. Aug-Sept: Pakistan. 
 - I found that air-pollution could also be a cause of glacier shrinkage and there were "glacier lakes that overflowed breaking the dams of ice"? [Need to look this up]. 
 ## Challenges: 
