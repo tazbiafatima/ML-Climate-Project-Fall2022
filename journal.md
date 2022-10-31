@@ -1,3 +1,15 @@
+# Week 8: - Ongoing will update as and when I wrap up for week 8 to start on week 9 
+## Where I'm at: 
+Data preprocessed
+
+## What's next: 
+Bangladesh vs Pakistan case study 
+.ipynb upload to github
+Draw a graph with potential variables, events and indicators that occured before both the 2010 and 2022 floods for Pakistan and 2022 floods for Bangladesh, similar to a causal graph model.
+
+# Week 7:
+Was sick this week Was not able to work on the project. 
+
 # Week 6:
 ## Where I'm at:
 Preprocessing Data that I found on the variables :
