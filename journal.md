@@ -1,4 +1,41 @@
-# Week 8: - Ongoing will update as and when I wrap up for week 8 to start on week 9 
+# Week 12: (Ongoing)
+## Where I'm at:
+Create DAG. Null hypothesis. Looking into time-series causal inference. 
+## Challenges: 
+
+## What's next: 
+
+
+# Week 11: (Thanksgiving weekend)
+## Where I'm at:
+Initial hypothesis was to build a prediction model. Streamlining it to perform causal inference of the immediate climate events on the floods. There are two dates standing out. 
+Apply black-box LSTM for a bake-off with existing parameters. 
+## Challenges: 
+Clean up causal inference implementation .
+## What's next: 
+Create DAG and run white-box Causal Inference. 
+
+# Week 10:
+## Where I'm at:
+Calculated Pearson's correlation coefficient for data variables to see if there are strong links. 
+Black box implementation of grangercausality wthout a causal graph.
+Narrow down study area by latitude and longitude of the Northern region of Pakistan vs Southern regions of Sindh and Balochistan. Reasons of floods are different for both regions. 
+## Challenges: 
+Not accounting for riverine floods due to lack of comprehensive data.
+## What's next: 
+Streamlining research project to only data from the month of April 2022 i.e., short-term data to the floods to create causal grpah of draught index, soil wetness, runoff, glacial lake outbursts, tropical depression in Bay of Bengal, pre-monsoon rainfall in the April, May, June months and tropical rainfall in the July, August months. 
+
+# Week 9:
+## Where I'm at:
+Lit review of Bangladesh vs Pakistan Floods case study. 
+There are multiple reasons why the floods are differents. Cannot infer any similarities due to geographical and topographic differences. 
+Performed Regression to see what the distribution type is for time-series precipitation, soil wetness, SST, temperature, draught index from 1980-present for Pakistan.
+## Challenges: 
+Causal Graph
+## What's next: 
+Find correlations first
+
+# Week 8: - 
 ## Where I'm at: 
 Data preprocessed
 
