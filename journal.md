@@ -9,7 +9,6 @@ Create DAG. Null hypothesis. Looking into time-series causal inference.
 # Week 11: (Thanksgiving weekend)
 ## Where I'm at:
 Initial hypothesis was to build a prediction model. Streamlining it to perform causal inference of the immediate climate events on the floods. There are two dates standing out. 
-Apply black-box LSTM for a bake-off with existing parameters. 
 ## Challenges: 
 Clean up causal inference implementation .
 ## What's next: 
