@@ -1,14 +1,21 @@
-# Week 12: (Ongoing)
+# Week 12:
 ## Where I'm at:
 Create DAG. Null hypothesis. Looking into time-series causal inference. 
+Causal Inference from the given features is unlikely to be statistically correct or possible without assumptions. 
+In order to make those assumptions. I decided to perform a bake-off of Causal Discovery - to discover if certain variables show causal effects or can be used as good predictors for the result. 
+Previosly when I implemented Granger Causality on the two study regions. I split them up into target variable as precipitation for the Southern Sindh & Balochistan region and as Glacial lake outburst floods (GLOFs) for the Northern Khyber Pankhtun Khwa region. 
+For the southern region causal discovery is performed to estimate effects of variables like surface runoff, soil temperature, soil wetness, etc. as the region has alluvial soil or soil that gets deposited by floods or rivers as the majority type of soil. 
+For the northern region causal discovery is performed to estimate effects of variables like snow water equivalent, snow cover, lake depth, lake shape, lake mix-layer temperature etc to estimate for GLOFs. 
+Debating whether to perform estimation of Causal Effects using do-why or implement causal inference of SST or ONI(the el-nino/la-nina index) on the u and v-component of winds on both regions. 
 ## Challenges: 
-
+Estimate causal effects
 ## What's next: 
-
+Implement causal effect estimation or causal inference on a subset of these variables i.e., does change in soil temperature cause change in runoff.
 
 # Week 11: (Thanksgiving weekend)
 ## Where I'm at:
 Initial hypothesis was to build a prediction model. Streamlining it to perform causal inference of the immediate climate events on the floods. There are two dates standing out. 
+
 ## Challenges: 
 Clean up causal inference implementation .
 ## What's next: 
