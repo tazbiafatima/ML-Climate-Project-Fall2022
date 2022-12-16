@@ -1,3 +1,15 @@
+
+# Week 14: 
+Completed Causal Analysis
+Analysed results 
+Wrote the final research paper
+
+# Week 13: 
+Performed Causal Discovery and prepared to perform Lingam causal discovery
+Created Presentation
+Implemented Causal Analysis using DoWhy
+
+
 # Week 12:
 ## Where I'm at:
 Create DAG. Null hypothesis. Looking into time-series causal inference. 
